@@ -1,0 +1,32 @@
+- React Hooks
+
+- Apollo Client:
+----------------
+@apollo/client, graphql
+Apollo Client Developer Tools (Chrome extension)
+apollo-link-context (to pass authorization header with link)
+
+- SemanticUI:
+-------------
+semantic-ui-react semantic-ui-css
+
+- More in React:
+----------------
+react-router-dom
+
+- Time:
+-------
+moment
+
+- JWT decode:
+-------------
+jwt-decode
+
+_________________________________
+Things not working:
+-------------------
+- After the new post is created, Home is not updated automatically. (Cache not refreshed)
+ 
+
+
+

@@ -1,0 +1,14 @@
+apollo-server, graphql, 
+mongoose,
+bcryptjs, 
+jsonwebtoken
+
+VS code extension:
+------------------
+- GraphQL for VSCode
+
+Features:
+---------
+- Insta-like-Posting, comment, like
+- Authentication
+- Validation (Error handling, self)
